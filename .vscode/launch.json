@@ -1,0 +1,78 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "angularpractice",
+            "request": "launch",
+            "mainClass": "com.demo.libs.angularpractice",
+            "projectName": "demoa"
+        },
+        {
+            "type": "java",
+            "name": "date",
+            "request": "launch",
+            "mainClass": "com.demo.date",
+            "projectName": "demoa"
+        },
+        {
+            "type": "java",
+            "name": "AllMenus",
+            "request": "launch",
+            "mainClass": "com.AllMenus",
+            "projectName": "demoa"
+        },
+        {
+            "type": "java",
+            "name": "MultiplaWindows",
+            "request": "launch",
+            "mainClass": "com.MultiplaWindows",
+            "projectName": "demoa"
+        },
+        {
+            "type": "java",
+            "name": "HandlingDropDown",
+            "request": "launch",
+            "mainClass": "com.demo.HandlingDropDown",
+            "projectName": "demoa"
+        },
+        {
+            "type": "java",
+            "name": "RadioButton",
+            "request": "launch",
+            "mainClass": "com.demo.libs.RadioButton",
+            "projectName": "demoa"
+        },
+        {
+            "type": "java",
+            "name": "HandlingCheckBoxPractice",
+            "request": "launch",
+            "mainClass": "com.demo.HandlingCheckBoxPractice",
+            "projectName": "demoa"
+        },
+        {
+            "type": "java",
+            "name": "HandlingCheckBox2",
+            "request": "launch",
+            "mainClass": "com.demo.HandlingCheckBox2",
+            "projectName": "demoa"
+        },
+        {
+            "type": "java",
+            "name": "HandlingCheckBox",
+            "request": "launch",
+            "mainClass": "com.HandlingCheckBox",
+            "projectName": "demoa"
+        },
+        {
+            "type": "java",
+            "name": "AutoSuggestiveDropDown",
+            "request": "launch",
+            "mainClass": "com.AutoSuggestiveDropDown",
+            "projectName": "demoa"
+        }
+    ]
+}
