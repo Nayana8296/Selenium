@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "actionsDemo",
+            "request": "launch",
+            "mainClass": "com.demo.actionsDemo",
+            "projectName": "demoa"
+        },
+        {
+            "type": "java",
+            "name": "MouseHover",
+            "request": "launch",
+            "mainClass": "com.demo.MouseHover",
+            "projectName": "demoa"
+        },
+        {
+            "type": "java",
+            "name": "FluentWaitDemo",
+            "request": "launch",
+            "mainClass": "com.demo.FluentWaitDemo",
+            "projectName": "demoa"
+        },
+        {
+            "type": "java",
+            "name": "LoginPagePractise2",
+            "request": "launch",
+            "mainClass": "com.demo.LoginPagePractise2",
+            "projectName": "demoa"
+        },
+        {
+            "type": "java",
+            "name": "LoginPagePractise",
+            "request": "launch",
+            "mainClass": "com.demo.LoginPagePractise",
+            "projectName": "demoa"
+        },
+        {
+            "type": "java",
+            "name": "Waits",
+            "request": "launch",
+            "mainClass": "com.demo.libs.Waits",
+            "projectName": "demoa"
+        },
+        {
+            "type": "java",
+            "name": "Arraytoarraylist",
+            "request": "launch",
+            "mainClass": "com.demo.libs.Arraytoarraylist",
+            "projectName": "demoa"
+        },
+        {
+            "type": "java",
+            "name": "ArrayproductstoCart",
+            "request": "launch",
+            "mainClass": "com.demo.libs.ArrayproductstoCart",
+            "projectName": "demoa"
+        },
+        {
+            "type": "java",
+            "name": "FlightBook",
+            "request": "launch",
+            "mainClass": "FlightBook",
+            "projectName": "demoa"
+        },
+        {
+            "type": "java",
             "name": "angularpractice",
             "request": "launch",
             "mainClass": "com.demo.libs.angularpractice",
